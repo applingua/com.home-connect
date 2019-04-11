@@ -4,14 +4,16 @@
       "id": "water_tank_empty",
       "title": {
         "en": "Water tank is empty",
-        "nl": "Waterreservoir is leeg"
+        "nl": "Waterreservoir is leeg",
+		"de": "Wassertank ist leer"
       }
     },
     {
       "id": "bean_container_empty",
       "title": {
         "en": "Bean container is empty",
-        "nl": "Bonencontainer is leeg"
+        "nl": "Bonencontainer is leeg",
+		"de": "Bonenbehälter ist leer"
       }
     }
   ],
@@ -20,7 +22,8 @@
 			"id": "program_coffee",
 			"title": {
 				"en": "Start Program",
-				"nl": "Start een programma"
+				"nl": "Start een programma",
+				"de": "Programm starten"
 			},
 			"args": [
 				{
@@ -43,7 +46,8 @@
 							"id": "coffee",
 							"label": {
 								"en": "Coffee",
-								"nl": "Koffie"
+								"nl": "Koffie",
+								"de": "Kaffee"
 							}
 						},
 						{
@@ -74,42 +78,48 @@
 							"id": "mild",
 							"label": {
 								"en": "Mild",
-								"nl": "Mild"
+								"nl": "Mild",
+								"de": "Mild"
 							}
 						},
 						{
 							"id": "normal",
 							"label": {
 								"en": "Normal",
-								"nl": "Normaal"
+								"nl": "Normaal",
+								"de": "Normal"
 							}
 						},
 						{
 							"id": "strong",
 							"label": {
 								"en": "Strong",
-								"nl": "Sterk"
+								"nl": "Sterk",
+								"de": "Stark"
 							}
 						},
 						{
 							"id": "verystrong",
 							"label": {
 								"en": "Very strong",
-								"nl": "Heel sterk"
+								"nl": "Heel sterk",
+								"de": "Sehr stark"
 							}
 						},
 						{
 							"id": "doubleshot",
 							"label": {
 								"en": "Double shot",
-								"nl": "Dubbel shot"
+								"nl": "Dubbel shot",
+								"de": "Doppelter Shot"
 							}
 						},
 						{
 							"id": "doubleshotplus",
 							"label": {
 								"en": "Double shot plus",
-								"nl": "Dubbel shot plus"
+								"nl": "Dubbel shot plus",
+								"de": "Doppelter Shot plus"
 							}
 						}
 					]
@@ -119,7 +129,8 @@
 					"type": "number",
 					"placeholder": {
   					"en": "Fill quantity (ml)",
-  					"nl": "Hoeveelheid (ml)"
+  					"nl": "Hoeveelheid (ml)",
+					"de": "Füllmenge (ml)"
 					},
 					"min": 35,
 					"max": 480,

@@ -1,7 +1,8 @@
 {
 	"name": {
 		"en": "Coffee Machine",
-		"nl": "Koffiezetapparaat"
+		"nl": "Koffiezetapparaat",
+		"de": "Kaffeemaschine"
 	},
 	"images": {
 		"large": "{{driverAssetsPath}}/images/large.png",
@@ -13,7 +14,8 @@
 		"bshc_string.remaining_time": {
 			"title": {
 				"en": "Remaining time",
-				"nl": "Resterende tijd"
+				"nl": "Resterende tijd",
+				"de": "Verbleibende Zeit"
 			}
 		}
 	},

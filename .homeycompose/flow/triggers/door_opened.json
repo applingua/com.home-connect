@@ -1,7 +1,8 @@
 {
 	"title": {
 		"en": "The door has been opened",
-		"nl": "De deur is opengemaakt"
+		"nl": "De deur is opengemaakt",
+		"de": "Die Tür wurde geöffnet."
 	},
 	"args": [
 		{

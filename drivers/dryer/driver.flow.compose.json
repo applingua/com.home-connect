@@ -4,7 +4,8 @@
 			"id": "program_dryer",
 			"title": {
 				"en": "Start Program",
-				"nl": "Start een programma"
+				"nl": "Start een programma",
+				"de": "Programm starten"
 			},
 			"args": [
 				{
@@ -15,21 +16,24 @@
 							"id": "cotton",
 							"label": {
 								"en": "Cotton",
-								"nl": "Katoen"
+								"nl": "Katoen",
+								"de": "Baumwolle"
 							}
 						},
 						{
 							"id": "synthetic",
 							"label": {
 								"en": "Synthetic",
-								"nl": "Synthetisch"
+								"nl": "Synthetisch",
+								"de": "Synthetisch"
 							}
 						},
 						{
 							"id": "mix",
 							"label": {
 								"en": "Mix",
-								"nl": "Mix"
+								"nl": "Mix",
+								"de": "Mix"
 							}
 						}
 					]
@@ -42,21 +46,24 @@
 							"id": "irondry",
 							"label": {
 								"en": "Iron dry",
-								"nl": "Strijkdroog"
+								"nl": "Strijkdroog",
+								"de": "Bügeltrocken"
 							}
 						},
 						{
 							"id": "cupboarddry",
 							"label": {
 								"en": "Cupboard dry",
-								"nl": "Kastdroog dry"
+								"nl": "Kastdroog dry",
+								"de": "Schranktrocken"
 							}
 						},
 						{
 							"id": "cupboarddryplus",
 							"label": {
 								"en": "Cupboard dry plus",
-								"nl": "Kastdroog plus"
+								"nl": "Kastdroog plus",
+								"de": "Schranktrocken plus"
 							}
 						}
 					]

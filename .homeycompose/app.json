@@ -5,7 +5,8 @@
     "en": "Bosch-Siemens Home Connect"
   },
   "description": {
-    "en": "Adds support for Bosch-Siemens Home Connect"
+    "en": "Adds support for Bosch-Siemens Home Connect",
+	"de": "Fügt Support für Bosch-Siemens Home Connect hinzu"
   },
   "images": {
     "large": "/assets/images/large.png",

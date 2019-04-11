@@ -4,7 +4,8 @@
 			"id": "program_oven",
 			"title": {
 				"en": "Start Program",
-				"nl": "Start een programma"
+				"nl": "Start een programma",
+				"de": "Programm starten"
 			},
 			"duration": true,
 			"args": [
@@ -16,28 +17,32 @@
 							"id": "preheat",
 							"label": {
 								"en": "Pre-heat",
-								"nl": "Voorverwarmen"
+								"nl": "Voorverwarmen",
+								"de": "Vorwärmen"
 							}
 						},
 						{
 							"id": "pizza",
 							"label": {
 								"en": "Pizza",
-								"nl": "Pizza"
+								"nl": "Pizza",
+								"de": "Pizza"
 							}
 						},
 						{
 							"id": "hotair",
 							"label": {
 								"en": "Hot Air",
-								"nl": "Hetelucht"
+								"nl": "Hetelucht",
+								"de": "Heiße Luft"
 							}
 						},
 						{
 							"id": "topbottom",
 							"label": {
 								"en": "Top/Bottom",
-								"nl": "Boven/Onderkant"
+								"nl": "Boven/Onderkant",
+								"de": "Oben/Unten"
 							}
 						}
 					]
@@ -47,7 +52,8 @@
 					"type": "number",
 					"placeholder": {
   					"en": "Temperature (°C)",
-  					"nl": "Temperatuur (°C)"
+  					"nl": "Temperatuur (°C)",
+					"de": "Temperatur (°C)"
 					},
 					"min": 30,
 					"max": 275,

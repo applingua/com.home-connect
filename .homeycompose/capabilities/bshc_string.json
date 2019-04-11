@@ -3,7 +3,8 @@
 	"getable": true,
 	"setable": true,
 	"title": {
-		"en": "Generic String"
+		"en": "Generic String",
+		"de": "Generische Zeichenfolge"
 	},
 	"icon": "/assets/progress.svg"
 }

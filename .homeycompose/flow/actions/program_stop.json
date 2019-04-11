@@ -1,7 +1,8 @@
 {
 	"title": {
 		"en": "Stop the active program",
-		"nl": "Stop het actieve programma"
+		"nl": "Stop het actieve programma",
+		"de": "Das aktive Programm stoppen"
 	},
 	"args": [
 		{

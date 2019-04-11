@@ -4,7 +4,8 @@
 			"id": "program_dishwasher",
 			"title": {
 				"en": "Start Program",
-				"nl": "Start een programma"
+				"nl": "Start een programma",
+				"de": "Programm starten"
 			},
 			"args": [
 				{
@@ -38,7 +39,8 @@
 						{
 							"id": "quick45",
 							"label": {
-								"en": "Quick Wash 45 °C"
+								"en": "Quick Wash 45 °C",
+								"de": "Schnelles Waschen 45°C"
 							}
 						}
 					]

@@ -1,7 +1,8 @@
 {
 	"title": {
 		"en": "A program has finished",
-		"nl": "Een programma is klaar"
+		"nl": "Een programma is klaar",
+		"de": "Ein Programm ist fertig"
 	},
 	"args": [
 		{

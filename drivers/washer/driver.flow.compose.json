@@ -4,7 +4,8 @@
 			"id": "program_washer",
 			"title": {
 				"en": "Start Program",
-				"nl": "Start een programma"
+				"nl": "Start een programma",
+				"de": "Programm starten"
 			},
 			"args": [
 				{
@@ -15,35 +16,40 @@
 							"id": "cotton",
 							"label": {
 								"en": "Cotton",
-								"nl": "Katoen"
+								"nl": "Katoen",
+								"de": "Baumwolle"
 							}
 						},
 						{
 							"id": "easycare",
 							"label": {
 								"en": "Easy Care",
-								"nl": "Easy Care"
+								"nl": "Easy Care",
+								"de": "Pflegeleicht"
 							}
 						},
 						{
 							"id": "mix",
 							"label": {
 								"en": "Mix",
-								"nl": "Mix"
+								"nl": "Mix",
+								"de": "Mix"
 							}
 						},
 						{
 							"id": "silk",
 							"label": {
 								"en": "Silk",
-								"nl": "Zijde"
+								"nl": "Zijde",
+								"de": "Seide"
 							}
 						},
 						{
 							"id": "wool",
 							"label": {
 								"en": "Wool",
-								"nl": "Wol"
+								"nl": "Wol",
+								"de": "Wolle"
 							}
 						}
 					]
@@ -56,7 +62,8 @@
 							"id": "cold",
 							"label": {
 								"en": "Cold",
-								"nl": "Koud"
+								"nl": "Koud",
+								"de": "Kalt"
 							}
 						},
 						{
@@ -101,7 +108,8 @@
 							"id": "off",
 							"label": {
 								"en": "No spinning",
-								"nl": "Niet rondraaien"
+								"nl": "Niet rondraaien",
+								"de": "Ohne Schleudern"
 							}
 						},
 						{

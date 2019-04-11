@@ -1,7 +1,8 @@
 {
 	"name": {
 		"en": "Oven",
-		"nl": "Oven"
+		"nl": "Oven",
+		"de": "Ofen"
 	},
 	"images": {
 		"large": "{{driverAssetsPath}}/images/large.png",
@@ -13,19 +14,22 @@
 		"alarm_contact": {
 			"title": {
 				"en": "Door open",
-				"nl": "Deur geopend"
+				"nl": "Deur geopend",
+				"de": "Tür offen"
 			}
 		},
 		"bshc_string.remaining_time": {
 			"title": {
 				"en": "Remaining time",
-				"nl": "Resterende tijd"
+				"nl": "Resterende tijd",
+				"de": "Verbleibende Zeit"
 			}
 		},
 		"bshc_string.progress": {
   		"title": {
     		"en": "Program progress",
-    		"nl": "Programmavoortgang"
+    		"nl": "Programmavoortgang",
+			"de": "Programmfortschritt"
   		}
 		}
 	},
